@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\bin\Debug\net6.0\Example 001_Helloconsol.exe
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\bin\Debug\net6.0\Example 001_Helloconsol.deps.json
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\bin\Debug\net6.0\Example 001_Helloconsol.runtimeconfig.json
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\bin\Debug\net6.0\Example 001_Helloconsol.dll
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\bin\Debug\net6.0\Example 001_Helloconsol.pdb
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\Example 001_Helloconsol.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\Example 001_Helloconsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\Example 001_Helloconsol.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\Example 001_Helloconsol.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\Example 001_Helloconsol.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\Example 001_Helloconsol.dll
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\refint\Example 001_Helloconsol.dll
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\Example 001_Helloconsol.pdb
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\Example 001_Helloconsol.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Examples\Example 001_Helloconsol\obj\Debug\net6.0\ref\Example 001_Helloconsol.dll
